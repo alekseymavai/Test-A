@@ -1,0 +1,122 @@
+[
+  {
+    "name": "XAUt / WETH 0.3%",
+    "address": "0xc5c7c21f4e60770ca5991a8832127a40f5236f73",
+    "reserve_usd": 178952.4629,
+    "volume_24h": 234692.401669173,
+    "txns_24h": 204,
+    "fee_tier": 0.3,
+    "apy_24h": 143.60695330097323,
+    "apy_30d": 143.60695330097323,
+    "apy_combined": 143.60695330097323,
+    "pool_created_at": "2021-12-29T14:39:06Z"
+  },
+  {
+    "name": "XAUt / USDT 0.05%",
+    "address": "0x6546055f46e866a4b9a4a13e81273e3152bae5da",
+    "reserve_usd": 6186986.7039,
+    "volume_24h": 27912078.9830044,
+    "txns_24h": 3008,
+    "fee_tier": 0.05,
+    "apy_24h": 82.33336611483747,
+    "apy_30d": 82.33336611483747,
+    "apy_combined": 82.33336611483747,
+    "pool_created_at": "2021-12-29T14:39:06Z"
+  },
+  {
+    "name": "WETH / USDT 0.3%",
+    "address": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "reserve_usd": 110132252.0556,
+    "volume_24h": 47326459.0248942,
+    "txns_24h": 906,
+    "fee_tier": 0.3,
+    "apy_24h": 47.054765216366135,
+    "apy_30d": 47.054765216366135,
+    "apy_combined": 47.054765216366135,
+    "pool_created_at": "2021-12-29T12:36:12Z"
+  },
+  {
+    "name": "XAUt / USDT 0.3%",
+    "address": "0xa91f80380d9cc9c86eb98d2965a0ded9e2000791",
+    "reserve_usd": 557847.9774,
+    "volume_24h": 173808.683879338,
+    "txns_24h": 96,
+    "fee_tier": 0.3,
+    "apy_24h": 34.116912950892974,
+    "apy_30d": 34.116912950892974,
+    "apy_combined": 34.116912950892974,
+    "pool_created_at": "2022-07-09T19:55:57Z"
+  },
+  {
+    "name": "UNI / WBTC 0.3%",
+    "address": "0x8f0cb37cdff37e004e0088f563e5fe39e05ccc5b",
+    "reserve_usd": 1673479.2369,
+    "volume_24h": 468922.849413639,
+    "txns_24h": 177,
+    "fee_tier": 0.3,
+    "apy_24h": 30.682813911638483,
+    "apy_30d": 30.682813911638483,
+    "apy_combined": 30.68281391163848,
+    "pool_created_at": "2022-02-26T15:35:14Z"
+  },
+  {
+    "name": "WLFI / USDT 0.3%",
+    "address": "0x813b1bce815c15774f85f8ff6b0dcbbb75a1d995",
+    "reserve_usd": 130664.9611,
+    "volume_24h": 31866.9430046055,
+    "txns_24h": 158,
+    "fee_tier": 0.3,
+    "apy_24h": 26.70517198817964,
+    "apy_30d": 26.70517198817964,
+    "apy_combined": 26.70517198817964,
+    "pool_created_at": "2025-09-01T11:21:35Z"
+  },
+  {
+    "name": "BNB / WETH 1%",
+    "address": "0x9e7809c21ba130c1a51c112928ea6474d9a9ae3c",
+    "reserve_usd": 155585.7979,
+    "volume_24h": 9481.927196033,
+    "txns_24h": 72,
+    "fee_tier": 1.0,
+    "apy_24h": 22.244340249978855,
+    "apy_30d": 22.244340249978855,
+    "apy_combined": 22.244340249978855,
+    "pool_created_at": "2021-12-29T18:19:28Z"
+  },
+  {
+    "name": "ONDO / WETH 0.3%",
+    "address": "0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+    "reserve_usd": 4517211.5196,
+    "volume_24h": 884411.200037005,
+    "txns_24h": 314,
+    "fee_tier": 0.3,
+    "apy_24h": 21.438674275900972,
+    "apy_30d": 21.438674275900972,
+    "apy_combined": 21.438674275900972,
+    "pool_created_at": "2024-01-18T12:31:11Z"
+  },
+  {
+    "name": "PAXG / XAUt 0.05%",
+    "address": "0xed7ef9a9a05a48858a507c080def0405ad1eaa3e",
+    "reserve_usd": 6497182.9086,
+    "volume_24h": 7203215.94215629,
+    "txns_24h": 762,
+    "fee_tier": 0.05,
+    "apy_24h": 20.23318302619231,
+    "apy_30d": 20.23318302619231,
+    "apy_combined": 20.23318302619231,
+    "pool_created_at": "2024-09-02T08:55:47Z"
+  },
+  {
+    "name": "ENA / WETH 0.3%",
+    "address": "0xc3db44adc1fcdfd5671f555236eae49f4a8eea18",
+    "reserve_usd": 1162142.3121,
+    "volume_24h": 212423.098381236,
+    "txns_24h": 249,
+    "fee_tier": 0.3,
+    "apy_24h": 20.015043795035524,
+    "apy_30d": 20.015043795035524,
+    "apy_combined": 20.015043795035524,
+    "pool_created_at": "2024-04-02T09:27:47Z"
+  }
+]
