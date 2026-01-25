@@ -1,0 +1,112 @@
+[
+  {
+    "name": "FLUID / WETH 0.3%",
+    "address": "0xcba27c8e7115b4eb50aa14999bc0866674a96ecb",
+    "volume_24h": 6490785.31107013,
+    "tvl": 1099960.5243,
+    "fee_tier": 0.3,
+    "fees_24h": 19472.35593321039,
+    "apy": 646.1513625813847,
+    "created_at": "2021-12-29T13:01:32Z",
+    "transactions_24h": 3827
+  },
+  {
+    "name": "FLUID / WETH 1%",
+    "address": "0xc1cd3d0913f4633b43fcddbcd7342bc9b71c676f",
+    "volume_24h": 5945550.49554129,
+    "tvl": 6806091.3924,
+    "fee_tier": 1.0,
+    "fees_24h": 59455.50495541291,
+    "apy": 318.85054222102207,
+    "created_at": "2022-01-10T01:49:02Z",
+    "transactions_24h": 894
+  },
+  {
+    "name": "G / USDC 1%",
+    "address": "0xc4dbe30fecc148a8755c970f3b8b0c9af0db81f5",
+    "volume_24h": 916227.939136099,
+    "tvl": 1146559.7617,
+    "fee_tier": 1.0,
+    "fees_24h": 9162.27939136099,
+    "apy": 291.675330807727,
+    "created_at": "2024-07-18T08:27:23Z",
+    "transactions_24h": 717
+  },
+  {
+    "name": "SAFE / WETH 0.3%",
+    "address": "0x000ba527862e5b82cff0f7c66b646af023274aa1",
+    "volume_24h": 294934.684842849,
+    "tvl": 183954.0514,
+    "fee_tier": 0.3,
+    "fees_24h": 884.804054528547,
+    "apy": 175.5620370658059,
+    "created_at": "2024-05-05T12:49:59Z",
+    "transactions_24h": 312
+  },
+  {
+    "name": "$MBG / USDT 1%",
+    "address": "0x56c53a6d1b49ae1d70954bc5858037d195a0f239",
+    "volume_24h": 230908.782310551,
+    "tvl": 540083.2774,
+    "fee_tier": 1.0,
+    "fees_24h": 2309.08782310551,
+    "apy": 156.05316637295147,
+    "created_at": "2025-10-23T19:47:35Z",
+    "transactions_24h": 260
+  },
+  {
+    "name": "PROS / WETH 0.3%",
+    "address": "0x062b5073e30e0f4bdb5e7437cfdc659916d631c0",
+    "volume_24h": 201604.786774247,
+    "tvl": 169436.8901,
+    "fee_tier": 0.3,
+    "fees_24h": 604.8143603227411,
+    "apy": 130.28877087363426,
+    "created_at": "2022-11-11T22:24:12Z",
+    "transactions_24h": 370
+  },
+  {
+    "name": "DUSK / USDT 0.3%",
+    "address": "0xff29d3e552155180809ea3a877408a4620058086",
+    "volume_24h": 441726.255682299,
+    "tvl": 376734.8535,
+    "fee_tier": 0.3,
+    "fees_24h": 1325.1787670468968,
+    "apy": 128.39009862731413,
+    "created_at": "2021-12-29T12:44:43Z",
+    "transactions_24h": 1592
+  },
+  {
+    "name": "XAUt / WETH 0.3%",
+    "address": "0xc5c7c21f4e60770ca5991a8832127a40f5236f73",
+    "volume_24h": 202750.110592888,
+    "tvl": 178026.9194,
+    "fee_tier": 0.3,
+    "fees_24h": 608.250331778664,
+    "apy": 124.70662967569854,
+    "created_at": "2021-12-29T14:39:06Z",
+    "transactions_24h": 187
+  },
+  {
+    "name": "DRAGONX / TITANX 1%",
+    "address": "0x25215d9ba4403b3da77ce50606b54577a71b7895",
+    "volume_24h": 78985.6328830644,
+    "tvl": 280263.3453,
+    "fee_tier": 1.0,
+    "fees_24h": 789.8563288306441,
+    "apy": 102.86666624727008,
+    "created_at": "2024-01-17T21:41:23Z",
+    "transactions_24h": 194
+  },
+  {
+    "name": "USDC / SLVon 1%",
+    "address": "0xeeb8f880ead7281a301ef2e6791a6bbe790603ed",
+    "volume_24h": 215630.488497818,
+    "tvl": 772630.6257,
+    "fee_tier": 1.0,
+    "fees_24h": 2156.30488497818,
+    "apy": 101.86643615168252,
+    "created_at": "2025-10-10T13:07:47Z",
+    "transactions_24h": 155
+  }
+]
