@@ -1,0 +1,112 @@
+[
+  {
+    "name": "XAUt / WETH 0.3%",
+    "address": "0xc5c7c21f4e60770ca5991a8832127a40f5236f73",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "XAUt / USDT 0.05%",
+    "address": "0x6546055f46e866a4b9a4a13e81273e3152bae5da",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "WETH / USDT 0.3%",
+    "address": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "XAUt / USDT 0.3%",
+    "address": "0xa91f80380d9cc9c86eb98d2965a0ded9e2000791",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "UNI / WBTC 0.3%",
+    "address": "0x8f0cb37cdff37e004e0088f563e5fe39e05ccc5b",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "WLFI / USDT 0.3%",
+    "address": "0x813b1bce815c15774f85f8ff6b0dcbbb75a1d995",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "BNB / WETH 1%",
+    "address": "0x9e7809c21ba130c1a51c112928ea6474d9a9ae3c",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "ONDO / WETH 0.3%",
+    "address": "0x7b1e5d984a43ee732de195628d20d05cfabc3cc7",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "PAXG / XAUt 0.05%",
+    "address": "0xed7ef9a9a05a48858a507c080def0405ad1eaa3e",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  },
+  {
+    "name": "ENA / WETH 0.3%",
+    "address": "0xc3db44adc1fcdfd5671f555236eae49f4a8eea18",
+    "apy_30d": 0,
+    "total_fees_usd": 0,
+    "avg_tvl_usd": 0,
+    "total_volume_usd": 0,
+    "days_count": 0,
+    "source": "The Graph",
+    "note": "Требуется API ключ для получения реальных данных"
+  }
+]
